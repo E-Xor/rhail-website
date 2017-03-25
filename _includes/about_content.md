@@ -17,6 +17,4 @@ Why I created Ruby Hail
 
 <br><br>
 
-How to How to use Ruby Hail
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b2qNVZHlAwU" frameborder="0" allowfullscreen></iframe>
+<a href="/tutorials">Don't forget to watch tutorials</a>
