@@ -5,7 +5,7 @@ permalink: /tutorials/
 excerpt: how it works, installation, code examples, tutorials
 ---
 
-How to How to use Ruby Hail
+How to use Ruby Hail
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b2qNVZHlAwU" frameborder="0" allowfullscreen></iframe>
 
