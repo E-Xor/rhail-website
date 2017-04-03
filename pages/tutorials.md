@@ -14,3 +14,9 @@ How to use Ruby Hail
 Ruby Hail Plain Generator Overview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BrtrmFLrK-8" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
+Ruby Hail JSON Generator Overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bd5VE56_QoY" frameborder="0" allowfullscreen></iframe>
